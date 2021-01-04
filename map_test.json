@@ -28,7 +28,7 @@
                  "value":"room1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
