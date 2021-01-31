@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/morellenfeuer-scribble.herokuapp.com\/"
+                 "value":"https:\/\/skribbl.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
