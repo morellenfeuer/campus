@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/archive.google.com\/tisp\/index.html"
+                 "value":"https:\/\/archive.google.com\/tisp\/install.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"camp.morellenfeuer.de:8011"
+                 "value":"http:\/\/camp.morellenfeuer.de:8011"
                 }],
          "type":"tilelayer",
          "visible":true,
