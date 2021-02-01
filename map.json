@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/"
+                 "value":"https:\/\/agar.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
