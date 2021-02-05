@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jacksonpollock.org\/"
+                 "value":"https:\/\/trypap.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/thezen.zone\/"
+                 "value":"https:\/\/smashthewalls.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.luz-landschaftsarchitektur.de\/assets\/image-cache\/arbeiten\/bosch\/header\/luz-lla-bosche-hd-1800px-2.e4a4b6c9.jpg"
+                 "value":"https:\/\/potatoortomato.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.meditace.com\/wp-content\/uploads\/2018\/01\/Guided-Meditation.jpg"
+                 "value":"https:\/\/thezen.zone\/"
                 }],
          "type":"tilelayer",
          "visible":true,
