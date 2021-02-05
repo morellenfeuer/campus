@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/slither.io\/"
+                 "value":"https:\/\/www.schach-spielen.eu\/schach-online-spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
