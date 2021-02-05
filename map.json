@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/freerice.com\/"
+                 "value":"https:\/\/jacksonpollock.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.geoguessr.com\/"
+                 "value":"https:\/\/thezen.zone\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.kuku-kube.com\/"
+                 "value":"https:\/\/cat-bounce.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
