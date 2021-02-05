@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/archive.google.com\/tisp\/install.html"
+                 "value":"http:\/\/freerice.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.tagesschau.de\/"
+                 "value":"https:\/\/www.geoguessr.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.schach-spielen.eu\/schach-online-spielen"
+                 "value":"https:\/\/www.kuku-kube.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
