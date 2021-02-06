@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.der-postillon.com\/"
+                 "value":"https:\/\/www.where-is-this.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hooooooooo.com\/"
+                 "value":"https:\/\/www.instructables.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/weirdorconfusing.com\/"
+                 "value":"https:\/\/www.sporcle.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/apod.nasa.gov\/apod\/astropix.html"
+                 "value":"https:\/\/pointerpointer.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
