@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/trypap.com\/"
+                 "value":"https:\/\/strobe.cool\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/smashthewalls.com\/"
+                 "value":"https:\/\/zoomquilt.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/potatoortomato.com\/"
+                 "value":"https:\/\/greatbignothing.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cat-bounce.com\/"
+                 "value":"https:\/\/potatoortomato.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
